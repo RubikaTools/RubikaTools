@@ -1,10 +1,10 @@
 [
   {
     "name": "aha",
-    "id": "kho"
+    "id": "http://rubika.ir"
   },
   {
     "name": "khio",
-    "id": "jable"
+    "id": "http://sketchware.io"
   }
 ]
