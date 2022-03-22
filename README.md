@@ -1,7 +1,7 @@
 [
   {
     "name": "نیو کارتون",
-    "id": "https://rubika.ir/new_cartoon",
+    "id": "rubika://l.rubika.ir/new_cartoon",
     "info": "دانلود رایگان کارتون و انیمیشن های جدید",
     "img": "https://s6.uupload.ir/files/picsart_22-03-22_14-44-35-862_8eos.png",
     "img1": "https://s6.uupload.ir/files/inshot_۲۰۲۲۰۳۲۲_۱۴۵۴۵۷۹۶۲_y2b5.jpg",
